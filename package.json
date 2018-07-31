@@ -1,0 +1,16 @@
+{
+    "name": "dev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "sample.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "jest": {
+        "testURL": "http://localhost/",
+        "testEnvironment": "node"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
